@@ -1,0 +1,50 @@
+[
+  {
+    "entityToken": "ChkIooCAqvyy0fDgARoML2cvMWhoZ18zbWdzEAE",
+    "hotelName": "The Manhattan at Times Square Hotel",
+    "hotelUrl": "https://www.google.com/travel/hotels/entity/ChkIooCAqvyy0fDgARoML2cvMWhoZ18zbWdzEAE",
+    "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2tkMFdrTlRla2xEU0ROUGVEbDJaalpTYjFoME1rRRAB",
+    "reviewerName": "Gwen Wilson",
+    "rating": 1,
+    "ratingMax": 5,
+    "reviewText": null,
+    "relativeDate": "7 hours ago",
+    "publishedAt": "2026-07-15T22:34:49.505000+00:00",
+    "ownerResponse": null,
+    "source": "google",
+    "markdownContent": "# Review of The Manhattan at Times Square Hotel\n**Rating:** 1/5\n**Reviewer:** Gwen Wilson\n**When:** 7 hours ago",
+    "scrapedAt": "2026-07-16T06:30:50.901926+00:00"
+  },
+  {
+    "entityToken": "ChkIooCAqvyy0fDgARoML2cvMWhoZ18zbWdzEAE",
+    "hotelName": "The Manhattan at Times Square Hotel",
+    "hotelUrl": "https://www.google.com/travel/hotels/entity/ChkIooCAqvyy0fDgARoML2cvMWhoZ18zbWdzEAE",
+    "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2tkc1ZrSlNaREZtUjJ4WlZUZHBTVkV6U0hoTFJuYxAB",
+    "reviewerName": "Dra. Patricia Villarreal",
+    "rating": 5,
+    "ratingMax": 5,
+    "reviewText": "Lo mejor del hotel es su personal, si es un hotel antiguo y necesita algunas mejoras pero está en un lugar inmejorable y su personal supera todo",
+    "relativeDate": "14 hours ago",
+    "publishedAt": "2026-07-15T15:50:35.368000+00:00",
+    "ownerResponse": null,
+    "source": "google",
+    "markdownContent": "# Review of The Manhattan at Times Square Hotel\n**Rating:** 5/5\n**Reviewer:** Dra. Patricia Villarreal\n**When:** 14 hours ago\n\nLo mejor del hotel es su personal, si es un hotel antiguo y necesita algunas mejoras pero está en un lugar inmejorable y su personal supera todo",
+    "scrapedAt": "2026-07-16T06:30:50.901943+00:00"
+  },
+  {
+    "entityToken": "ChkIooCAqvyy0fDgARoML2cvMWhoZ18zbWdzEAE",
+    "hotelName": "The Manhattan at Times Square Hotel",
+    "hotelUrl": "https://www.google.com/travel/hotels/entity/ChkIooCAqvyy0fDgARoML2cvMWhoZ18zbWdzEAE",
+    "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2xkcWNWOTZPVmRQZEd3NFpFNURZVkZVVWpGVk0zYxAB",
+    "reviewerName": "vaibhav khurana",
+    "rating": 1,
+    "ratingMax": 5,
+    "reviewText": null,
+    "relativeDate": "a day ago",
+    "publishedAt": "2026-07-15T00:59:43.507000+00:00",
+    "ownerResponse": null,
+    "source": "google",
+    "markdownContent": "# Review of The Manhattan at Times Square Hotel\n**Rating:** 1/5\n**Reviewer:** vaibhav khurana\n**When:** a day ago",
+    "scrapedAt": "2026-07-16T06:30:50.901951+00:00"
+  }
+]

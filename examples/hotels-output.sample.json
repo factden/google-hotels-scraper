@@ -1,0 +1,292 @@
+[
+  {
+    "searchQuery": "hotels in New York City",
+    "name": "The Manhattan at Times Square Hotel",
+    "entityToken": "ChkIooCAqvyy0fDgARoML2cvMWhoZ18zbWdzEAE",
+    "cid": "0x89c258f88254f2c3:0xe0e14597c5400022",
+    "cidDecimal": "16204309452407439394",
+    "hotelUrl": "https://www.google.com/travel/hotels/entity/ChkIooCAqvyy0fDgARoML2cvMWhoZ18zbWdzEAE",
+    "propertyType": "hotel",
+    "starClass": 4.0,
+    "rating": 3.0,
+    "reviewCount": 10129,
+    "latitude": 40.7622856,
+    "longitude": -73.98264040000001,
+    "checkInDate": "2026-08-15",
+    "checkOutDate": "2026-08-16",
+    "nights": 1,
+    "adults": 2,
+    "children": 0,
+    "rooms": 1,
+    "currency": "USD",
+    "leadPrice": 195.0,
+    "leadPriceTotal": 195.0,
+    "vendorCount": 17,
+    "roomOfferCount": 75,
+    "vendors": [
+      {
+        "source": "The Manhattan at Times Square Hotel",
+        "pricePerNight": 308.0,
+        "priceTotal": 308.0,
+        "taxesFees": null,
+        "bookingLink": "https://www.google.com/aclk?sa=l&ai=DChsSEwiakLalydaVAxVTkIMHHaT-E2oYACICCAEQHhoCZWY&co=1&ase=2&gclid=EAIaIQobChMImpC2pcnWlQMVU5CDBx2k_hNqEAoYASABEgJWmfD_BwE&category=acrcp_v1_48&sig=AOD64_1wysqrWMYCl7Ti7PBtMjPo3hmROg&adurl",
+        "official": true
+      },
+      {
+        "source": "Priceline",
+        "pricePerNight": 290.0,
+        "priceTotal": 290.0,
+        "taxesFees": null,
+        "bookingLink": "https://www.google.com/aclk?sa=l&ai=DChsSEwiakLalydaVAxVTkIMHHaT-E2oYACICCAEQXRoCZWY&co=1&ase=2&gclid=EAIaIQobChMImpC2pcnWlQMVU5CDBx2k_hNqEAoYAiABEgKTKPD_BwE&category=acrcp_v1_48&sig=AOD64_1T2onzmakx5azugNbqKWK3ns7uHA&adurl",
+        "official": true
+      },
+      {
+        "source": "Expedia.com",
+        "pricePerNight": 292.0,
+        "priceTotal": 292.0,
+        "taxesFees": null,
+        "bookingLink": "https://www.google.com/aclk?sa=l&ai=DChsSEwiakLalydaVAxVTkIMHHaT-E2oYACICCAEQCBoCZWY&co=1&ase=2&gclid=EAIaIQobChMImpC2pcnWlQMVU5CDBx2k_hNqEAoYAyABEgI7TvD_BwE&category=acrcp_v1_48&sig=AOD64_14H2rmnyHwLygbfSdMPnm-tpPfeg&adurl",
+        "official": true
+      },
+      {
+        "source": "Booking.com",
+        "pricePerNight": 290.0,
+        "priceTotal": 290.0,
+        "taxesFees": null,
+        "bookingLink": "https://www.google.com/aclk?sa=l&ai=DChsSEwiakLalydaVAxVTkIMHHaT-E2oYACICCAEQARoCZWY&co=1&ase=2&gclid=EAIaIQobChMImpC2pcnWlQMVU5CDBx2k_hNqEAoYBCABEgIjjPD_BwE&category=acrcp_v1_48&sig=AOD64_2bShS3bW017O_uQDx1I7CblkQgbA&adurl",
+        "official": true
+      },
+      {
+        "source": "Super.com",
+        "pricePerNight": 195.0,
+        "priceTotal": 195.0,
+        "taxesFees": null,
+        "bookingLink": null,
+        "official": false
+      },
+      {
+        "source": "müv AI",
+        "pricePerNight": 274.0,
+        "priceTotal": 274.0,
+        "taxesFees": null,
+        "bookingLink": null,
+        "official": false
+      },
+      {
+        "source": "Agoda",
+        "pricePerNight": 290.0,
+        "priceTotal": 290.0,
+        "taxesFees": null,
+        "bookingLink": null,
+        "official": false
+      },
+      {
+        "source": "Hotels.com",
+        "pricePerNight": 292.0,
+        "priceTotal": 292.0,
+        "taxesFees": null,
+        "bookingLink": null,
+        "official": false
+      }
+    ],
+    "roomOffers": [
+      {
+        "source": "The Manhattan at Times Square Hotel",
+        "roomName": "1 queen premium - Ihg early saver",
+        "perNight": 308.0,
+        "total": 308.0,
+        "taxed": 308.0,
+        "currency": "USD"
+      },
+      {
+        "source": "The Manhattan at Times Square Hotel",
+        "roomName": "Standard room - Ihg early saver",
+        "perNight": 308.0,
+        "total": 308.0,
+        "taxed": 308.0,
+        "currency": "USD"
+      },
+      {
+        "source": "The Manhattan at Times Square Hotel",
+        "roomName": "1 king premium - Ihg early saver",
+        "perNight": 319.0,
+        "total": 319.0,
+        "taxed": 319.0,
+        "currency": "USD"
+      },
+      {
+        "source": "The Manhattan at Times Square Hotel",
+        "roomName": "1 queen premium manhattan floor - Ihg early saver",
+        "perNight": 319.0,
+        "total": 319.0,
+        "taxed": 319.0,
+        "currency": "USD"
+      },
+      {
+        "source": "The Manhattan at Times Square Hotel",
+        "roomName": "1 queen premium - Ihg early saver with breakfast",
+        "perNight": 325.0,
+        "total": 325.0,
+        "taxed": 325.0,
+        "currency": "USD"
+      },
+      {
+        "source": "The Manhattan at Times Square Hotel",
+        "roomName": "Standard room - Ihg early saver with breakfast",
+        "perNight": 325.0,
+        "total": 325.0,
+        "taxed": 325.0,
+        "currency": "USD"
+      }
+    ],
+    "ratesByDate": [],
+    "reviewsExtracted": 3,
+    "markdownContent": "# The Manhattan at Times Square Hotel (Google Hotels)\n\n**Class:** 4.0-star\n**Guest rating:** 3.0/5 (10129 reviews)\n**From:** USD 195.0 / night\n\n## Prices by source\n- The Manhattan at Times Square Hotel: USD 308.0/night\n- Priceline: USD 290.0/night\n- Expedia.com: USD 292.0/night\n- Booking.com: USD 290.0/night\n- Super.com: USD 195.0/night\n- müv AI: USD 274.0/night\n- Agoda: USD 290.0/night\n- Hotels.com: USD 292.0/night\n- Evendo: USD 283.0/night\n- klook: USD 292.0/night\n- Brek: USD 292.0/night\n- BusinessHotels.com: USD 290.0/night\n- Bluepillow.com: USD 290.0/night\n- CheapTickets.com: USD 292.0/night\n- dealbase.com: USD 292.0/night\n- Billabook.com: USD 312.0/night\n- Pilot: USD 382.0/night",
+    "scrapedAt": "2026-07-16T06:30:50.902005+00:00"
+  },
+  {
+    "searchQuery": "hotels in New York City",
+    "name": "New York Hilton Midtown",
+    "entityToken": "ChYIgPn8mcvjjZoqGgovbS8wYnkxZjdfEAE",
+    "cid": "0x89c25855c0679529:0x2a34371cb33f3c80",
+    "cidDecimal": "3041116244787805312",
+    "hotelUrl": "https://www.google.com/travel/hotels/entity/ChYIgPn8mcvjjZoqGgovbS8wYnkxZjdfEAE",
+    "propertyType": "hotel",
+    "starClass": 4.0,
+    "rating": 4.0,
+    "reviewCount": 12020,
+    "latitude": 40.7622481,
+    "longitude": -73.97919,
+    "checkInDate": "2026-08-15",
+    "checkOutDate": "2026-08-16",
+    "nights": 1,
+    "adults": 2,
+    "children": 0,
+    "rooms": 1,
+    "currency": "USD",
+    "leadPrice": 235.0,
+    "leadPriceTotal": 235.0,
+    "vendorCount": 24,
+    "roomOfferCount": 51,
+    "vendors": [
+      {
+        "source": "New York Hilton Midtown",
+        "pricePerNight": 308.0,
+        "priceTotal": 308.0,
+        "taxesFees": null,
+        "bookingLink": "https://www.google.com/aclk?sa=l&ai=DChsSEwja_4anydaVAxWInFAGHYJ3L04YACICCAEQVxoCZGc&co=1&ase=2&gclid=EAIaIQobChMI2v-Gp8nWlQMViJxQBh2Cdy9OEAoYASABEgJ9QfD_BwE&category=acrcp_v1_53&sig=AOD64_2t1wv086p0LKauTkFTDdTkrglJkQ&adurl",
+        "official": true
+      },
+      {
+        "source": "Expedia.com",
+        "pricePerNight": 302.0,
+        "priceTotal": 302.0,
+        "taxesFees": null,
+        "bookingLink": "https://www.google.com/aclk?sa=l&ai=DChsSEwja_4anydaVAxWInFAGHYJ3L04YACICCAEQDRoCZGc&co=1&ase=2&gclid=EAIaIQobChMI2v-Gp8nWlQMViJxQBh2Cdy9OEAoYAiABEgLTs_D_BwE&category=acrcp_v1_48&sig=AOD64_0fvGxUqMfNEYKil0oNOUCCBzLn7g&adurl",
+        "official": true
+      },
+      {
+        "source": "Booking.com",
+        "pricePerNight": 308.0,
+        "priceTotal": 308.0,
+        "taxesFees": null,
+        "bookingLink": "https://www.google.com/aclk?sa=l&ai=DChsSEwja_4anydaVAxWInFAGHYJ3L04YACICCAEQARoCZGc&co=1&ase=2&gclid=EAIaIQobChMI2v-Gp8nWlQMViJxQBh2Cdy9OEAoYAyABEgKPNfD_BwE&category=acrcp_v1_48&sig=AOD64_3wbSJx77DiyZArMfSAIyJdUHrrTw&adurl",
+        "official": true
+      },
+      {
+        "source": "Priceline",
+        "pricePerNight": 308.0,
+        "priceTotal": 308.0,
+        "taxesFees": null,
+        "bookingLink": "https://www.google.com/aclk?sa=l&ai=DChsSEwja_4anydaVAxWInFAGHYJ3L04YACICCAEQmwEaAmRn&co=1&ase=2&gclid=EAIaIQobChMI2v-Gp8nWlQMViJxQBh2Cdy9OEAoYBCABEgIqlPD_BwE&category=acrcp_v1_48&sig=AOD64_38U9VvZTJsLynrLnEhFUtasIWWyg&adurl",
+        "official": true
+      },
+      {
+        "source": "Super.com",
+        "pricePerNight": 235.0,
+        "priceTotal": 235.0,
+        "taxesFees": null,
+        "bookingLink": null,
+        "official": false
+      },
+      {
+        "source": "Pilot",
+        "pricePerNight": 268.0,
+        "priceTotal": 268.0,
+        "taxesFees": null,
+        "bookingLink": null,
+        "official": false
+      },
+      {
+        "source": "TUI.com",
+        "pricePerNight": 281.0,
+        "priceTotal": 281.0,
+        "taxesFees": null,
+        "bookingLink": null,
+        "official": false
+      },
+      {
+        "source": "Tripening Hotels",
+        "pricePerNight": 282.0,
+        "priceTotal": 282.0,
+        "taxesFees": null,
+        "bookingLink": null,
+        "official": false
+      }
+    ],
+    "roomOffers": [
+      {
+        "source": "New York Hilton Midtown",
+        "roomName": "URBAN ROOM QUEEN BED",
+        "perNight": 308.0,
+        "total": 308.0,
+        "taxed": 308.0,
+        "currency": "USD"
+      },
+      {
+        "source": "New York Hilton Midtown",
+        "roomName": "URBAN 1 KING ACC RI SHWR",
+        "perNight": 327.0,
+        "total": 327.0,
+        "taxed": 327.0,
+        "currency": "USD"
+      },
+      {
+        "source": "New York Hilton Midtown",
+        "roomName": "URBAN 1 KING ACC SHOWER",
+        "perNight": 327.0,
+        "total": 327.0,
+        "taxed": 327.0,
+        "currency": "USD"
+      },
+      {
+        "source": "New York Hilton Midtown",
+        "roomName": "URBAN 1 KING ACC TUB",
+        "perNight": 327.0,
+        "total": 327.0,
+        "taxed": 327.0,
+        "currency": "USD"
+      },
+      {
+        "source": "New York Hilton Midtown",
+        "roomName": "URBAN 1 KING HEARING",
+        "perNight": 327.0,
+        "total": 327.0,
+        "taxed": 327.0,
+        "currency": "USD"
+      },
+      {
+        "source": "New York Hilton Midtown",
+        "roomName": "URBAN 1 KNG BED W/ SOFABED",
+        "perNight": 327.0,
+        "total": 327.0,
+        "taxed": 327.0,
+        "currency": "USD"
+      }
+    ],
+    "ratesByDate": [],
+    "reviewsExtracted": 3,
+    "markdownContent": "# New York Hilton Midtown (Google Hotels)\n\n**Class:** 4.0-star\n**Guest rating:** 4.0/5 (12020 reviews)\n**From:** USD 235.0 / night\n\n## Prices by source\n- New York Hilton Midtown: USD 308.0/night\n- Expedia.com: USD 302.0/night\n- Booking.com: USD 308.0/night\n- Priceline: USD 308.0/night\n- Super.com: USD 235.0/night\n- Pilot: USD 268.0/night\n- TUI.com: USD 281.0/night\n- Tripening Hotels: USD 282.0/night\n- Billabook.com: USD 292.0/night\n- Agoda: USD 308.0/night\n- Hotels.com: USD 302.0/night\n- Trip.com: USD 302.0/night\n- pricetravel.com: USD 302.0/night\n- Hotel Booking Zone: USD 308.0/night\n- Qantas Hotels: USD 302.0/night\n- Evendo: USD 298.0/night\n- Wego: USD 302.0/night\n- Brek: USD 302.0/night\n- Amimir.com: USD 302.0/night\n- Closest Hotel: USD 302.0/night",
+    "scrapedAt": "2026-07-16T06:30:55.622377+00:00"
+  }
+]
