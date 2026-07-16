@@ -28,6 +28,7 @@ empty array).
 | `leadPriceTotal` | number \| null | Cheapest total price for the whole stay. |
 | `vendorCount` | integer | How many booking sources (OTAs) returned a price. |
 | `roomOfferCount` | integer | How many room × source offers were found (per-room prices only). |
+| `offers` | array | **The Prices view** — one row per bookable option: each source (roomName null), expanded to per-room rows where the source provides them. `{source, roomName, perNight, total, taxed, bookingLink, official}`. |
 | `vendors` | array | **The OTA ladder** — one object per source: `{source, pricePerNight, priceTotal, taxesFees, bookingLink, official}`. |
 | `roomOffers` | array | Per-room × source rates (per-room prices only): `{source, roomName, perNight, total, taxed, currency}`. |
 | `ratesByDate` | array | Multi-date price window (extra check-in dates): `{checkInDate, checkOutDate, nights, leadPrice, currency, vendors[]}`. |
