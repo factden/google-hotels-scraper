@@ -72,7 +72,7 @@ Every field is documented in **[`FIELDS.md`](./FIELDS.md)**. From Apify you can 
 
 ## How much does it cost?
 
-Pay-per-event on Apify: a **per-hotel fee with no per-run start fee** — prices, per-room rates and reviews for that hotel are included in the single per-hotel charge. Toggle prices/reviews off to run cheaper. New Apify accounts get **$5 in free credit**. See the [actor page](https://apify.com/factden/google-hotels-scraper?fpr=factden) for current pricing.
+**Pay only for what you pull — no start fee.** Three events: **Hotel** $0.004 (each hotel returned), **Prices** $0.008 (each hotel priced — the full OTA ladder + per-room rates, per date), and **Review** $0.001 (each review). So a hotel with its full price ladder = **$0.012**; discovery-only = **$0.004**. Paid Apify plans get a lower per-event rate. Toggle prices/reviews off to run cheaper, and new accounts get **$5 in free credit** (~500 fully-priced hotels). See the [actor page](https://apify.com/factden/google-hotels-scraper?fpr=factden) for current pricing.
 
 ---
 

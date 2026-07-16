@@ -1,7 +1,7 @@
 # How to scrape Google Hotels prices & reviews (the easy way)
 
-Scraping Google Hotels directly is painful: the data lives behind Google's internal `batchexecute` API with
-obfuscated payloads, TLS fingerprinting, and a price ladder spread across several response containers. This guide
+Scraping Google Hotels directly is painful: the data lives behind Google's internal, obfuscated APIs with
+TLS fingerprinting, and a price ladder spread across several response containers. This guide
 skips all of that by using the [Google Hotels Scraper](https://apify.com/factden/google-hotels-scraper?fpr=factden)
 actor on Apify — no login, no Google API key, no proxy setup, no anti-bot tuning.
 
