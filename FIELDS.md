@@ -27,11 +27,11 @@ empty array).
 | `leadPrice` | number \| null | Cheapest per-night price across all sources. |
 | `leadPriceTotal` | number \| null | Cheapest total price for the whole stay. |
 | `vendorCount` | integer | How many booking sources (OTAs) returned a price. |
-| `roomOfferCount` | integer | How many room × source offers were found (per-room prices only). |
-| `offers` | array | **The Prices view** — one row per bookable option: each source (roomName null), expanded to per-room rows where the source provides them. `{source, roomName, perNight, total, taxed, bookingLink, official}`. |
-| `vendors` | array | **The OTA ladder** — one object per source: `{source, pricePerNight, priceTotal, taxesFees, bookingLink, official}`. |
-| `roomOffers` | array | Per-room × source rates (per-room prices only): `{source, roomName, perNight, total, taxed, currency}`. |
-| `ratesByDate` | array | Multi-date price window (extra check-in dates): `{checkInDate, checkOutDate, nights, leadPrice, currency, vendors[]}`. |
+| `roomOfferCount` | integer | How many room × source offers were found (for the sources that expose them). |
+| `offers` | array | **The Prices view** — one row per bookable option: each source (roomName null), expanded to per-room rows where the source provides them. `{source, roomName, perNight, total, bookingLink, official}`. |
+| `vendors` | array | **The OTA ladder** — one object per source: `{source, pricePerNight, priceTotal, bookingLink, official}`. |
+| `roomOffers` | array | Per-room × source rates (for the sources that expose them): `{source, roomName, perNight, total, currency}`. |
+| `ratesByDate` | array | Multi-date price window (from the "track prices until" date): `{checkInDate, checkOutDate, nights, leadPrice, currency, vendors[]}`. |
 | `reviewsExtracted` | integer | Reviews this run pushed to the Reviews dataset for this hotel. |
 | `markdownContent` | string | Self-contained hotel + price-ladder summary block, ready for LLM / RAG ingestion. |
 | `scrapedAt` | string | ISO-8601 UTC timestamp of extraction. |
@@ -43,7 +43,6 @@ empty array).
 | `source` | string | Booking source name (e.g. `Booking.com`, `Agoda`, `Expedia.com`, or the hotel's official site). |
 | `pricePerNight` | number \| null | Per-night price from this source. |
 | `priceTotal` | number \| null | Whole-stay total from this source. |
-| `taxesFees` | number \| null | Taxes/fees when Google itemizes them. |
 | `bookingLink` | string \| null | Deep link to book on this source. |
 | `official` | boolean | Whether this is the hotel's official/direct site. |
 

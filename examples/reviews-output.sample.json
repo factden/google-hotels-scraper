@@ -1,50 +1,59 @@
 [
   {
-    "entityToken": "ChkIooCAqvyy0fDgARoML2cvMWhoZ18zbWdzEAE",
-    "hotelName": "The Manhattan at Times Square Hotel",
-    "hotelUrl": "https://www.google.com/travel/hotels/entity/ChkIooCAqvyy0fDgARoML2cvMWhoZ18zbWdzEAE",
-    "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2tkMFdrTlRla2xEU0ROUGVEbDJaalpTYjFoME1rRRAB",
-    "reviewerName": "Gwen Wilson",
-    "rating": 1,
+    "entityToken": "ChcI3Ojk8KLFsIFNGgsvZy8xdGc5amg1dBAB",
+    "hotelName": "Crowne Plaza Englewood by IHG",
+    "hotelUrl": "https://www.google.com/travel/hotels/entity/ChcI3Ojk8KLFsIFNGgsvZy8xdGc5amg1dBAB",
+    "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT21ObWRGTnNjVVJXU0hGc09XNU5VWHA1WDNsaE5WRRAB",
+    "reviewerName": "Daniel Blackburn",
+    "rating": 2,
     "ratingMax": 5,
-    "reviewText": null,
-    "relativeDate": "7 hours ago",
-    "publishedAt": "2026-07-15T22:34:49.505000+00:00",
-    "ownerResponse": null,
+    "reviewText": "Stay somewhere else if you can. If I hadn’t bought it on Priceline, I would’ve left.<br>First of all the hotel is really showing its age. The halls are very dated, but the rooms have newer furniture. On arrival one of the 2 elevators was out of order. On day two, after a long day the other elevator was out of order. This is a 9 story building, my room was on the EIGHTH floor.<br>Also, I could smell cigarette smoke in my room coming from somewhere in the building.<br>The bathroom has a drop ceiling and if a breeding ground for mold. The showers don’t have any type of shelf to put soap, razor, etc. so it either has to go on the shower floor or you have to try and hold it while you shower. Someone did a very poor job at repairing the wall in the bathroom.",
+    "relativeDate": "3 days ago",
+    "publishedAt": "2026-07-14T01:12:17.576000+00:00",
+    "ownerResponse": {
+      "text": "Hi Daniel,\n\nThank you for bringing your concerns to our attention. We are sorry to hear that your stay did not meet your expectations. We are especially concerned by your comments regarding the condition of your guest room. We take all reports of this nature very seriously. Please contact us at +1 201-871-2020 and provide any photos or additional details about your experience. We would appreciate the opportunity to review your concerns thoroughly.\n\nSincerely,\n- The Staff at Crowne Plaza Englewood",
+      "date": "a day ago"
+    },
     "source": "google",
-    "markdownContent": "# Review of The Manhattan at Times Square Hotel\n**Rating:** 1/5\n**Reviewer:** Gwen Wilson\n**When:** 7 hours ago",
-    "scrapedAt": "2026-07-16T06:30:50.901926+00:00"
+    "markdownContent": "# Review of Crowne Plaza Englewood by IHG\n**Rating:** 2/5\n**Reviewer:** Daniel Blackburn\n**When:** 3 days ago\n\nStay somewhere else if you can. If I hadn’t bought it on Priceline, I would’ve left.<br>First of all the hotel is really showing its age. The halls are very dated, but the rooms have newer furniture. On arrival one of the 2 elevators was out of order. On day two, after a long day the other elevator was out of order. This is a 9 story building, my room was on the EIGHTH floor.<br>Also, I could smell cigarette smoke in my room coming from somewhere in the building.<br>The bathroom has a drop ceiling and if a breeding ground for mold. The showers don’t have any type of shelf to put soap, razor, etc. so it either has to go on the shower floor or you have to try and hold it while you shower. Someone did a very poor job at repairing the wall in the bathroom.\n\n**Owner response:** Hi Daniel,\n\nThank you for bringing your concerns to our attention. We are sorry to hear that your stay did not meet your expectations. We are especially concerned by your comments regarding the condition of your guest room. We take all reports of this nature very seriously. Please contact us at +1 201-871-2020 and provide any photos or additional details about your experience. We would appreciate the opportunity to review your concerns thoroughly.\n\nSincerely,\n- The Staff at Crowne Plaza Englewood",
+    "scrapedAt": "2026-07-17T05:16:11.673889+00:00"
   },
   {
-    "entityToken": "ChkIooCAqvyy0fDgARoML2cvMWhoZ18zbWdzEAE",
-    "hotelName": "The Manhattan at Times Square Hotel",
-    "hotelUrl": "https://www.google.com/travel/hotels/entity/ChkIooCAqvyy0fDgARoML2cvMWhoZ18zbWdzEAE",
-    "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2tkc1ZrSlNaREZtUjJ4WlZUZHBTVkV6U0hoTFJuYxAB",
-    "reviewerName": "Dra. Patricia Villarreal",
-    "rating": 5,
+    "entityToken": "ChcI3Ojk8KLFsIFNGgsvZy8xdGc5amg1dBAB",
+    "hotelName": "Crowne Plaza Englewood by IHG",
+    "hotelUrl": "https://www.google.com/travel/hotels/entity/ChcI3Ojk8KLFsIFNGgsvZy8xdGc5amg1dBAB",
+    "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT21scmNEaFRYMlJKV2pCMFdYTlNUV1F4V1V0bFNXYxAB",
+    "reviewerName": "Adel Bishai",
+    "rating": 3,
     "ratingMax": 5,
-    "reviewText": "Lo mejor del hotel es su personal, si es un hotel antiguo y necesita algunas mejoras pero está en un lugar inmejorable y su personal supera todo",
-    "relativeDate": "14 hours ago",
-    "publishedAt": "2026-07-15T15:50:35.368000+00:00",
-    "ownerResponse": null,
+    "reviewText": "Despite the relatively outdated building and the rooms, yet the Housekeeping staff is doing a fantastic job in turning the rooms over every single day. The rooms are reasonably priced. The beds are actually very comfortable . As for the amenities, theres not much to talk about . Each room has a Decent size mini fridge and a microwave . Would actulas consider staying here again",
+    "relativeDate": "5 days ago",
+    "publishedAt": "2026-07-12T02:39:53.850000+00:00",
+    "ownerResponse": {
+      "text": "Hi Adel,\n\nWe appreciate your thoughtful feedback. It's wonderful to hear that our housekeeping team impressed you with their dedication, and we're glad you found the beds comfortable. Your comments about the building and amenities have been shared with our team as we strive for continuous improvement. We hope to welcome you back for an even better experience in the future.\n\n- The Staff at Crowne Plaza Englewood",
+      "date": "3 days ago"
+    },
     "source": "google",
-    "markdownContent": "# Review of The Manhattan at Times Square Hotel\n**Rating:** 5/5\n**Reviewer:** Dra. Patricia Villarreal\n**When:** 14 hours ago\n\nLo mejor del hotel es su personal, si es un hotel antiguo y necesita algunas mejoras pero está en un lugar inmejorable y su personal supera todo",
-    "scrapedAt": "2026-07-16T06:30:50.901943+00:00"
+    "markdownContent": "# Review of Crowne Plaza Englewood by IHG\n**Rating:** 3/5\n**Reviewer:** Adel Bishai\n**When:** 5 days ago\n\nDespite the relatively outdated building and the rooms, yet the Housekeeping staff is doing a fantastic job in turning the rooms over every single day. The rooms are reasonably priced. The beds are actually very comfortable . As for the amenities, theres not much to talk about . Each room has a Decent size mini fridge and a microwave . Would actulas consider staying here again\n\n**Owner response:** Hi Adel,\n\nWe appreciate your thoughtful feedback. It's wonderful to hear that our housekeeping team impressed you with their dedication, and we're glad you found the beds comfortable. Your comments about the building and amenities have been shared with our team as we strive for continuous improvement. We hope to welcome you back for an even better experience in the future.\n\n- The Staff at Crowne Plaza Englewood",
+    "scrapedAt": "2026-07-17T05:16:11.673929+00:00"
   },
   {
-    "entityToken": "ChkIooCAqvyy0fDgARoML2cvMWhoZ18zbWdzEAE",
-    "hotelName": "The Manhattan at Times Square Hotel",
-    "hotelUrl": "https://www.google.com/travel/hotels/entity/ChkIooCAqvyy0fDgARoML2cvMWhoZ18zbWdzEAE",
-    "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2xkcWNWOTZPVmRQZEd3NFpFNURZVkZVVWpGVk0zYxAB",
-    "reviewerName": "vaibhav khurana",
-    "rating": 1,
+    "entityToken": "ChcI3Ojk8KLFsIFNGgsvZy8xdGc5amg1dBAB",
+    "hotelName": "Crowne Plaza Englewood by IHG",
+    "hotelUrl": "https://www.google.com/travel/hotels/entity/ChcI3Ojk8KLFsIFNGgsvZy8xdGc5amg1dBAB",
+    "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2tab01HbHFNMHhYWjNadlFVMXdSazVXVEdOTVFtYxAB",
+    "reviewerName": "ggg ggg",
+    "rating": 3,
     "ratingMax": 5,
-    "reviewText": null,
-    "relativeDate": "a day ago",
-    "publishedAt": "2026-07-15T00:59:43.507000+00:00",
-    "ownerResponse": null,
+    "reviewText": "Good place for overnight stay. Needs remodeling",
+    "relativeDate": "6 days ago",
+    "publishedAt": "2026-07-10T21:19:32.835000+00:00",
+    "ownerResponse": {
+      "text": "Hi,\n\nWe appreciate your feedback and are glad you found our location suitable for an overnight stay. Your comments about remodeling are valuable to us and have been shared with our team. We aim to enhance our guests' experiences continually.\n\n- The Staff at Crowne Plaza Englewood",
+      "date": "5 days ago"
+    },
     "source": "google",
-    "markdownContent": "# Review of The Manhattan at Times Square Hotel\n**Rating:** 1/5\n**Reviewer:** vaibhav khurana\n**When:** a day ago",
-    "scrapedAt": "2026-07-16T06:30:50.901951+00:00"
+    "markdownContent": "# Review of Crowne Plaza Englewood by IHG\n**Rating:** 3/5\n**Reviewer:** ggg ggg\n**When:** 6 days ago\n\nGood place for overnight stay. Needs remodeling\n\n**Owner response:** Hi,\n\nWe appreciate your feedback and are glad you found our location suitable for an overnight stay. Your comments about remodeling are valuable to us and have been shared with our team. We aim to enhance our guests' experiences continually.\n\n- The Staff at Crowne Plaza Englewood",
+    "scrapedAt": "2026-07-17T05:16:11.673956+00:00"
   }
 ]

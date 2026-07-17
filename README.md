@@ -13,7 +13,7 @@ This repo is the **developer entry point** for the Google Hotels Scraper actor: 
 
 ## What it extracts
 
-Give it a **destination search** (e.g. `hotels in New York City`) and/or specific **hotel URLs / IDs**, pick your **dates and occupancy**, and get two structured datasets:
+Give it a **destination search** (e.g. `hotels in New York City`) and/or **exact hotels** (by name, Google Maps/Hotels link, or ID), pick your **dates and occupancy**, and get two structured datasets:
 
 - **Hotels** — one row per hotel: name, star class, guest rating, review count, property type, coordinates, the **lead per-night price** and the **full per-source OTA ladder** (`vendors[]` — each source with its per-night/total price and a **booking link**), optional **per-room rates** (`roomOffers[]`), an optional multi-date **price window** (`ratesByDate[]`), Google entity token / CID, and an LLM-ready `markdownContent` block.
 - **Reviews** *(optional)* — one row per guest review: reviewer, rating, **review text**, **exact publish date**, the hotel's **owner response**, and an LLM-ready `markdownContent` block.
@@ -72,7 +72,7 @@ Every field is documented in **[`FIELDS.md`](./FIELDS.md)**. From Apify you can 
 
 ## How much does it cost?
 
-**Pay only for what you pull — no start fee.** Three events: **Hotel** $0.004 (each hotel returned), **Prices** $0.008 (each hotel priced — the full OTA ladder + per-room rates, per date), and **Review** $0.001 (each review). So a hotel with its full price ladder = **$0.012**; discovery-only = **$0.004**. Paid Apify plans get a lower per-event rate. Toggle prices/reviews off to run cheaper, and new accounts get **$5 in free credit** (~500 fully-priced hotels). See the [actor page](https://apify.com/factden/google-hotels-scraper?fpr=factden) for current pricing.
+**Pay only for what you pull — no start fee.** Three events: **Hotel** $0.004 (each hotel returned), **Prices** $0.008 (each hotel priced — the full OTA ladder + per-room rates, per date), and **Review** $0.001 (each review). So a hotel with its full price ladder = **$0.012**; discovery-only = **$0.004**. Paid Apify plans get a lower per-event rate. Toggle prices/reviews off to run cheaper, and new accounts get **$5 in free credit** (~400 fully-priced hotels, or ~1,250 discovery-only). See the [actor page](https://apify.com/factden/google-hotels-scraper?fpr=factden) for current pricing.
 
 ---
 
@@ -82,7 +82,7 @@ Every field is documented in **[`FIELDS.md`](./FIELDS.md)**. From Apify you can 
 
 **Do I need a Google account or API key?** No. Everything runs inside the actor on Apify's infrastructure — no login, no key, no proxy setup.
 
-**Can I price specific hotels instead of a whole city?** Yes — paste Google Hotels/Maps URLs, CIDs, feature-ids, entity tokens, `maps.app.goo.gl` short links, or `ChIJ…` place-ids into **Hotel URLs / IDs**, and add extra check-in dates for a multi-date price window.
+**Can I price specific hotels instead of a whole city?** Yes — add exact hotels by **name**, Google Hotels/Maps URL, `maps.app.goo.gl` short link, `ChIJ…` place-id, or `ChkI…` entity token (a Maps link is CID-matched to the exact property), and set a "track prices until" date for a multi-date price window.
 
 **Why do a few hotels have no price ladder?** Almost all do. A property with no bookable offers on your dates still returns its name, rating, star class and reviews — just an empty ladder.
 

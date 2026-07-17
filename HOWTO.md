@@ -23,19 +23,20 @@ Create a free [Apify](https://console.apify.com/sign-up?fpr=factden) account and
 `hotels in New York City`, `Paris 5 star hotels`, `resorts in Bali`. Use a specific, unambiguous destination — a
 broad one-word term can pull in similarly-named places elsewhere.
 
-**Or price specific hotels** — paste any of these into **Hotel URLs / IDs**: a Google Hotels/Travel URL, a Google
-Maps place URL, a `maps.app.goo.gl` short link, a numeric CID (or `cid=`/`ludocid=`), a `0x…:0x…` feature-id, a
-`ChkI…` entity token, or a `ChIJ…` Maps place-id. Add **extra check-in dates** to reprice the same hotels across a
-range (`ratesByDate`).
+**Or add exact hotels** — add any of these into **…or add exact hotels**, one per line, and you get exactly those
+hotels (one row each): a **hotel name** (e.g. `The Manhattan at Times Square` — resolved to the closest match, so
+use the full name + city), a Google Hotels/Travel URL, a Google Maps place URL, a `maps.app.goo.gl` short link, a
+`ChkI…` entity token, or a `ChIJ…` Maps place-id. (A Google Maps link is CID-matched to the exact property.) Set a
+**Track prices until** date to reprice the same hotels across a range (`ratesByDate`).
 
 ## 4. Pick what to pull
 
-- **Include prices** (default on) — the lead price + the full OTA ladder with booking links. Needs check-in/out dates.
-- **Include per-room prices** — the room × source rate matrix.
+- **Include prices** (default on) — the lead price + the full OTA ladder with booking links, **plus the per-room
+  rate matrix** (rooms come free in the same request). Needs check-in/out dates.
 - **Include reviews** — guest reviews (exact dates + owner responses) into the separate `reviews` dataset.
 
-Filters (`minPrice`/`maxPrice`/`minGuestRating`) are applied on the accurate price; star class, amenities and
-property type refine the search itself.
+Filters (`minPrice`/`maxPrice`/`minGuestRating`) are applied on the accurate price; star class and property type
+refine the search itself.
 
 ## 5. Run it from code
 

@@ -5,7 +5,6 @@
   "checkInDate": "2026-08-15",
   "checkOutDate": "2026-08-16",
   "includePrices": true,
-  "includeRoomPrices": true,
   "includeReviews": true,
   "maxReviews": 20,
   "maxResults": 10,
