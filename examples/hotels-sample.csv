@@ -1,3 +1,4 @@
 name,starClass,rating,reviewCount,propertyType,leadPrice,currency,vendorCount,checkInDate,hotelUrl
 The Marmara Park Avenue,5,4.2,1070,hotel,252,USD,13,2026-11-15,https://www.google.com/travel/hotels/entity/ChgItafdiL6xv88kGgwvZy8xcTYyZHR0cngQAQ
-Hyatt Grand Central New York,4,4,8613,hotel,256,USD,26,2026-11-15,https://www.google.com/travel/hotels/entity/ChYImeqn5sP5xYFQGgovbS8wOXJ0bXZ2EAE
+Hotel Henri NY,,4.2,624,,154,USD,12,2026-11-15,https://www.google.com/travel/hotels/entity/ChkI3fjphL7vpIVDGg0vZy8xMXN4NTE1emYzEAE
+The Manhattan at Times Square Hotel,4,3,10133,hotel,253,USD,24,2026-11-15,https://www.google.com/travel/hotels/entity/ChkIooCAqvyy0fDgARoML2cvMWhoZ18zbWdzEAE

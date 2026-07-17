@@ -30,8 +30,10 @@
         "roomName": "Deluxe Queen (DLXQ)",
         "perNight": 287,
         "total": 287,
-        "bookingLink": "https://www.google.com/aclk?sa=l&ai=DChsSEwjwyt29k9mVAxW7TH8AHWPwGXsYACICCAEQHxoCb2E&co=1&ase=2&gclid=EAIaIQobChMI8MrdvZPZlQMVu0x_AB1j8Bl7EAoYASABEgLxiPD_BwE&category=acrcp_v1_48&sig=AOD64_1RngHYbPXtAjed2X40dZD9FFWc_w&adurl",
-        "official": true
+        "currency": "USD",
+        "official": false,
+        "hotelUrl": "https://www.google.com/travel/hotels/entity/ChgItafdiL6xv88kGgwvZy8xcTYyZHR0cngQAQ",
+        "bookingLink": "https://www.google.com/aclk?sa=L&ai=DChsSEwizlsmHmNmVAxUEJEQIHUovJG8YACICCAEQARoCZHo&co=1&ase=2&gclid=EAIaIQobChMIs5bJh5jZlQMVBCRECB1KLyRvEAoYASABEgK8HvD_BwE&category=acrcp_v1_32&sig=AOD64_15nfhCgeRUcpGRLa0s5m7iO1E9gg&adurl"
       },
       {
         "source": "Booking.com",
@@ -40,8 +42,10 @@
         "roomName": "Deluxe Double Room",
         "perNight": 306,
         "total": 306,
-        "bookingLink": "https://www.google.com/aclk?sa=l&ai=DChsSEwjwyt29k9mVAxW7TH8AHWPwGXsYACICCAEQHxoCb2E&co=1&ase=2&gclid=EAIaIQobChMI8MrdvZPZlQMVu0x_AB1j8Bl7EAoYASABEgLxiPD_BwE&category=acrcp_v1_48&sig=AOD64_1RngHYbPXtAjed2X40dZD9FFWc_w&adurl",
-        "official": true
+        "currency": "USD",
+        "official": false,
+        "hotelUrl": "https://www.google.com/travel/hotels/entity/ChgItafdiL6xv88kGgwvZy8xcTYyZHR0cngQAQ",
+        "bookingLink": "https://www.google.com/aclk?sa=L&ai=DChsSEwizlsmHmNmVAxUEJEQIHUovJG8YACICCAEQARoCZHo&co=1&ase=2&gclid=EAIaIQobChMIs5bJh5jZlQMVBCRECB1KLyRvEAoYASABEgK8HvD_BwE&category=acrcp_v1_32&sig=AOD64_15nfhCgeRUcpGRLa0s5m7iO1E9gg&adurl"
       },
       {
         "source": "Booking.com",
@@ -50,8 +54,10 @@
         "roomName": "Deluxe King (DLX)",
         "perNight": 306,
         "total": 306,
-        "bookingLink": "https://www.google.com/aclk?sa=l&ai=DChsSEwjwyt29k9mVAxW7TH8AHWPwGXsYACICCAEQHxoCb2E&co=1&ase=2&gclid=EAIaIQobChMI8MrdvZPZlQMVu0x_AB1j8Bl7EAoYASABEgLxiPD_BwE&category=acrcp_v1_48&sig=AOD64_1RngHYbPXtAjed2X40dZD9FFWc_w&adurl",
-        "official": true
+        "currency": "USD",
+        "official": false,
+        "hotelUrl": "https://www.google.com/travel/hotels/entity/ChgItafdiL6xv88kGgwvZy8xcTYyZHR0cngQAQ",
+        "bookingLink": "https://www.google.com/aclk?sa=L&ai=DChsSEwizlsmHmNmVAxUEJEQIHUovJG8YACICCAEQARoCZHo&co=1&ase=2&gclid=EAIaIQobChMIs5bJh5jZlQMVBCRECB1KLyRvEAoYASABEgK8HvD_BwE&category=acrcp_v1_32&sig=AOD64_15nfhCgeRUcpGRLa0s5m7iO1E9gg&adurl"
       },
       {
         "source": "Booking.com",
@@ -60,8 +66,10 @@
         "roomName": "King Room - Disability Access (DLXA)",
         "perNight": 381,
         "total": 381,
-        "bookingLink": "https://www.google.com/aclk?sa=l&ai=DChsSEwjwyt29k9mVAxW7TH8AHWPwGXsYACICCAEQHxoCb2E&co=1&ase=2&gclid=EAIaIQobChMI8MrdvZPZlQMVu0x_AB1j8Bl7EAoYASABEgLxiPD_BwE&category=acrcp_v1_48&sig=AOD64_1RngHYbPXtAjed2X40dZD9FFWc_w&adurl",
-        "official": true
+        "currency": "USD",
+        "official": false,
+        "hotelUrl": "https://www.google.com/travel/hotels/entity/ChgItafdiL6xv88kGgwvZy8xcTYyZHR0cngQAQ",
+        "bookingLink": "https://www.google.com/aclk?sa=L&ai=DChsSEwizlsmHmNmVAxUEJEQIHUovJG8YACICCAEQARoCZHo&co=1&ase=2&gclid=EAIaIQobChMIs5bJh5jZlQMVBCRECB1KLyRvEAoYASABEgK8HvD_BwE&category=acrcp_v1_32&sig=AOD64_15nfhCgeRUcpGRLa0s5m7iO1E9gg&adurl"
       },
       {
         "source": "Booking.com",
@@ -70,8 +78,10 @@
         "roomName": "Queen Room with Two Queen Beds - Disability Access (DLXQQA)",
         "perNight": 381,
         "total": 381,
-        "bookingLink": "https://www.google.com/aclk?sa=l&ai=DChsSEwjwyt29k9mVAxW7TH8AHWPwGXsYACICCAEQHxoCb2E&co=1&ase=2&gclid=EAIaIQobChMI8MrdvZPZlQMVu0x_AB1j8Bl7EAoYASABEgLxiPD_BwE&category=acrcp_v1_48&sig=AOD64_1RngHYbPXtAjed2X40dZD9FFWc_w&adurl",
-        "official": true
+        "currency": "USD",
+        "official": false,
+        "hotelUrl": "https://www.google.com/travel/hotels/entity/ChgItafdiL6xv88kGgwvZy8xcTYyZHR0cngQAQ",
+        "bookingLink": "https://www.google.com/aclk?sa=L&ai=DChsSEwizlsmHmNmVAxUEJEQIHUovJG8YACICCAEQARoCZHo&co=1&ase=2&gclid=EAIaIQobChMIs5bJh5jZlQMVBCRECB1KLyRvEAoYASABEgK8HvD_BwE&category=acrcp_v1_32&sig=AOD64_15nfhCgeRUcpGRLa0s5m7iO1E9gg&adurl"
       },
       {
         "source": "Booking.com",
@@ -80,8 +90,10 @@
         "roomName": "Classic Junior Suite Accessible (STUKA)",
         "perNight": 425,
         "total": 425,
-        "bookingLink": "https://www.google.com/aclk?sa=l&ai=DChsSEwjwyt29k9mVAxW7TH8AHWPwGXsYACICCAEQHxoCb2E&co=1&ase=2&gclid=EAIaIQobChMI8MrdvZPZlQMVu0x_AB1j8Bl7EAoYASABEgLxiPD_BwE&category=acrcp_v1_48&sig=AOD64_1RngHYbPXtAjed2X40dZD9FFWc_w&adurl",
-        "official": true
+        "currency": "USD",
+        "official": false,
+        "hotelUrl": "https://www.google.com/travel/hotels/entity/ChgItafdiL6xv88kGgwvZy8xcTYyZHR0cngQAQ",
+        "bookingLink": "https://www.google.com/aclk?sa=L&ai=DChsSEwizlsmHmNmVAxUEJEQIHUovJG8YACICCAEQARoCZHo&co=1&ase=2&gclid=EAIaIQobChMIs5bJh5jZlQMVBCRECB1KLyRvEAoYASABEgK8HvD_BwE&category=acrcp_v1_32&sig=AOD64_15nfhCgeRUcpGRLa0s5m7iO1E9gg&adurl"
       },
       {
         "source": "Booking.com",
@@ -90,79 +102,83 @@
         "roomName": "Junior Suite",
         "perNight": 530,
         "total": 530,
-        "bookingLink": "https://www.google.com/aclk?sa=l&ai=DChsSEwjwyt29k9mVAxW7TH8AHWPwGXsYACICCAEQHxoCb2E&co=1&ase=2&gclid=EAIaIQobChMI8MrdvZPZlQMVu0x_AB1j8Bl7EAoYASABEgLxiPD_BwE&category=acrcp_v1_48&sig=AOD64_1RngHYbPXtAjed2X40dZD9FFWc_w&adurl",
-        "official": true
+        "currency": "USD",
+        "official": false,
+        "hotelUrl": "https://www.google.com/travel/hotels/entity/ChgItafdiL6xv88kGgwvZy8xcTYyZHR0cngQAQ",
+        "bookingLink": "https://www.google.com/aclk?sa=L&ai=DChsSEwizlsmHmNmVAxUEJEQIHUovJG8YACICCAEQARoCZHo&co=1&ase=2&gclid=EAIaIQobChMIs5bJh5jZlQMVBCRECB1KLyRvEAoYASABEgK8HvD_BwE&category=acrcp_v1_32&sig=AOD64_15nfhCgeRUcpGRLa0s5m7iO1E9gg&adurl"
       },
       {
-        "source": "Hotels.com",
+        "source": "Priceline",
         "checkInDate": "2026-11-15",
         "checkOutDate": "2026-11-16",
-        "roomName": "Deluxe Room, 1 Queen Bed",
-        "perNight": 291,
-        "total": 291,
-        "bookingLink": "https://www.google.com/aclk?sa=l&ai=DChsSEwjwyt29k9mVAxW7TH8AHWPwGXsYACICCAEQYBoCb2E&co=1&ase=2&gclid=EAIaIQobChMI8MrdvZPZlQMVu0x_AB1j8Bl7EAoYAiABEgLfZvD_BwE&category=acrcp_v1_48&sig=AOD64_26xIhTrNxrcNk-3S8lOCgViqsIuA&adurl",
-        "official": true
+        "roomName": "Deluxe Queen (DLXQ)",
+        "perNight": 287,
+        "total": 287,
+        "currency": "USD",
+        "official": false,
+        "hotelUrl": "https://www.google.com/travel/hotels/entity/ChgItafdiL6xv88kGgwvZy8xcTYyZHR0cngQAQ",
+        "bookingLink": "https://www.google.com/aclk?sa=L&ai=DChsSEwizlsmHmNmVAxUEJEQIHUovJG8YACICCAEQFhoCZHo&co=1&ase=2&gclid=EAIaIQobChMIs5bJh5jZlQMVBCRECB1KLyRvEAoYAiABEgIZLfD_BwE&category=acrcp_v1_32&sig=AOD64_3TvxhG84WtlxPEbSHkiPZmmAaq8A&adurl"
       }
     ],
     "vendors": [
       {
         "source": "Booking.com",
-        "bookingLink": "https://www.google.com/aclk?sa=l&ai=DChsSEwjwyt29k9mVAxW7TH8AHWPwGXsYACICCAEQHxoCb2E&co=1&ase=2&gclid=EAIaIQobChMI8MrdvZPZlQMVu0x_AB1j8Bl7EAoYASABEgLxiPD_BwE&category=acrcp_v1_48&sig=AOD64_1RngHYbPXtAjed2X40dZD9FFWc_w&adurl",
-        "official": true
-      },
-      {
-        "source": "Hotels.com",
-        "bookingLink": "https://www.google.com/aclk?sa=l&ai=DChsSEwjwyt29k9mVAxW7TH8AHWPwGXsYACICCAEQYBoCb2E&co=1&ase=2&gclid=EAIaIQobChMI8MrdvZPZlQMVu0x_AB1j8Bl7EAoYAiABEgLfZvD_BwE&category=acrcp_v1_48&sig=AOD64_26xIhTrNxrcNk-3S8lOCgViqsIuA&adurl",
-        "official": true
-      },
-      {
-        "source": "Expedia.com",
-        "bookingLink": "https://www.google.com/aclk?sa=l&ai=DChsSEwjwyt29k9mVAxW7TH8AHWPwGXsYACICCAEQNBoCb2E&co=1&ase=2&gclid=EAIaIQobChMI8MrdvZPZlQMVu0x_AB1j8Bl7EAoYAyABEgImePD_BwE&category=acrcp_v1_48&sig=AOD64_1Z5L5X2NfQOZL0RPQd70D3bhlDIg&adurl",
-        "official": true
+        "bookingLink": "https://www.google.com/aclk?sa=L&ai=DChsSEwizlsmHmNmVAxUEJEQIHUovJG8YACICCAEQARoCZHo&co=1&ase=2&gclid=EAIaIQobChMIs5bJh5jZlQMVBCRECB1KLyRvEAoYASABEgK8HvD_BwE&category=acrcp_v1_32&sig=AOD64_15nfhCgeRUcpGRLa0s5m7iO1E9gg&adurl",
+        "official": false
       },
       {
         "source": "Priceline",
-        "bookingLink": "https://www.google.com/aclk?sa=l&ai=DChsSEwjwyt29k9mVAxW7TH8AHWPwGXsYACICCAEQARoCb2E&co=1&ase=2&gclid=EAIaIQobChMI8MrdvZPZlQMVu0x_AB1j8Bl7EAoYBCABEgKsCvD_BwE&category=acrcp_v1_48&sig=AOD64_0Zo7dmIleienHzn7NtylOe_YcoPA&adurl",
-        "official": true
+        "bookingLink": "https://www.google.com/aclk?sa=L&ai=DChsSEwizlsmHmNmVAxUEJEQIHUovJG8YACICCAEQFhoCZHo&co=1&ase=2&gclid=EAIaIQobChMIs5bJh5jZlQMVBCRECB1KLyRvEAoYAiABEgIZLfD_BwE&category=acrcp_v1_32&sig=AOD64_3TvxhG84WtlxPEbSHkiPZmmAaq8A&adurl",
+        "official": false
       },
       {
-        "source": "Travelocity.com",
-        "bookingLink": "https://www.google.com/aclk?sa=l&ai=DChsSEwjwyt29k9mVAxW7TH8AHWPwGXsYACICCAEQShoCb2E&co=1&ase=2&gclid=EAIaIQobChMI8MrdvZPZlQMVu0x_AB1j8Bl7EAoYBSABEgIziPD_BwE&category=acrcp_v1_48&sig=AOD64_10dVPmBB-LhYhGche58vLOD5keNA&adurl",
-        "official": true
+        "source": "Hotels.com",
+        "bookingLink": "https://www.google.com/aclk?sa=L&ai=DChsSEwizlsmHmNmVAxUEJEQIHUovJG8YACICCAEQNBoCZHo&co=1&ase=2&gclid=EAIaIQobChMIs5bJh5jZlQMVBCRECB1KLyRvEAoYAyABEgJ9F_D_BwE&category=acrcp_v1_32&sig=AOD64_1hQ79WF-NkBtDO317ms0tRoRP84w&adurl",
+        "official": false
       },
       {
-        "source": "eDreams",
-        "bookingLink": "https://www.google.com/aclk?sa=l&ai=DChsSEwjwyt29k9mVAxW7TH8AHWPwGXsYACICCAEQCRoCb2E&co=1&ase=2&gclid=EAIaIQobChMI8MrdvZPZlQMVu0x_AB1j8Bl7EAoYBiABEgKM1_D_BwE&category=acrcp_v1_48&sig=AOD64_1Wjd6uaUZQxggMZNu_Ts3LxSRf2g&adurl",
-        "official": true
+        "source": "Expedia.com",
+        "bookingLink": "https://www.google.com/aclk?sa=L&ai=DChsSEwizlsmHmNmVAxUEJEQIHUovJG8YACICCAEQHhoCZHo&co=1&ase=2&gclid=EAIaIQobChMIs5bJh5jZlQMVBCRECB1KLyRvEAoYBCABEgKimvD_BwE&category=acrcp_v1_32&sig=AOD64_3fQ6z0VEhR7K2Wz2_0MxBMjEX-Yw&adurl",
+        "official": false
       },
       {
         "source": "Super.com",
-        "bookingLink": "https://www.google.com/travel/clk?pc=AA80Osx-JEC7_aT3WoLEzSEPAsmAB4P0J2iP9K_3gkjOP7-fAy70Gf2NnCfW7kXjSDy7Roj1axaoAfOU1izT43DYJsfrPesnnU6MxSOQ7t3S6VRisYzMn09yImH8DQQDV4FVFDJNb1VPDS-LWkf4s-R-CWUWQHBUZo5SFUFJgbcXjVC6t7RuAloDunxrDA&pcurl=https://www.super.com/travel/transition/?data%3Dprice%3D218.41%2526total_price%3D251.72%2526retail_price%3D249.16%2526retail_total_price%3D287.16%2526request_id%3D10433654687461230592%2526ps%3D125358856027%2526pp%3DOrG-mjZzu5_GK1-Eb_-55g%2526pb%3DHWIX9cRZ-I2TJKfOyKZGGlZ48p4J7cKiGM6aro6e2YRLhmpVpcg7unikqRFryZ8WbEqjxZSbE3XSOPJu8hm_FrjhLi_SivS-uGMjsV5y5x04QHokKDKEB7txenLCpV9367T0nSBBJdJ5w1x1Et5tMJKl8IwpTZBTKaDM6q2PPR1600FB210TQrKLVTfQTsgdHYI83fHtxXdxhffsdkXjkLR1PzAwCv7yyUBHszRun0dCxPAGKzcaIpgh-7eLssZN4nZI8x_kKE3HDP64RKoFvbV2Ozef0yXZKU2IgBpz4gfcV3EIzvi3ZyBAXpU3nxhySpkTvTyaiFXOxqEShTTmiBt48IixkhmQedg9F22n3wkHgbakwLJmTyAWGpWYnNRTHFFAnvcSg_ICfoTig5SI5M3Bc1zjG9Vc6mOfPnjTqCvxWYeUCkzh4_ML-fxwKCm_4RmlyMUSnUrCkqZUJSmSXi52U6FcEgvfa8EvJgAQevqK2fuelbF6g5TUu6AC4McvqecbCKl28P3c-yCs_mpJ9A%25253D%25253D%2526gha_pull_request%3DTrue%2526rtp%3DSdTUqdR7wIew8aRS9esAtw%25253D%25253D%2526risk_lk_1%3Dtrue%2526alwd_rand%3Dfalse%2526gt%3D1784242094%2526sg%3DAgR06%2526sid%3DGHA_MD6%2526cmab_id%3D31%2526ib%3Dfalse%2526s2b%3Dm3%2526all_inclusive%3Dfalse%26utm_source%3Dgha%26utm_content%3Dlocaluniversal%26currency%3DUSD%26user_country%3DUS%26verification%3Dfalse%26rate_rule_ids%3D%26date_type%3Dselected%26rate_rule_id%3Dsignedout_desktop%26display_currency%3DUSD%26display_all_inclusive_price%3D251.72%26checkin_at%3D2026-11-15%26checkout_at%3D2026-11-16%26provider_hotel_id%3D10005277404%26provider%3Dean%26num_adults%3D2%26children%3D%5B%5D%26hotel_campaign%3D%26utm_campaign%3D%26user_locale%3Den-US%26user_list_id%3D%26utm_medium%3Dorganic%26utm_id%3Dgha_organic&s=AD1XQnlau3XB0DxPf88kd4reRBq0&ap=1",
+        "bookingLink": "https://www.google.com/travel/clk?pc=AA80Osxp0PTUTEn2ROcZ9nOl3k091pXmt90VQO45E5BrUW7m41rMf8TzAMRe3IxTsV1QwOP2Ho4UVoF88XOuRKF8JJX2cU0LbzW3hTp3btCJCbGS0YRyxIys-cvF6RcQkR_YphTXkRIs129OfR0ps8UsmcqjiLbmo6hQ7LKFCkoyuZ5pSPhjrvcomRFRBA&pcurl=https://www.super.com/travel/transition/?data%3Dprice%3D218.41%2526total_price%3D251.72%2526retail_price%3D249.16%2526retail_total_price%3D287.16%2526request_id%3D10433654687461230592%2526ps%3D125358856027%2526pp%3DOrG-mjZzu5_GK1-Eb_-55g%2526pb%3DHWIX9cRZ-I2TJKfOyKZGGlZ48p4J7cKiGM6aro6e2YRLhmpVpcg7unikqRFryZ8WbEqjxZSbE3XSOPJu8hm_FrjhLi_SivS-uGMjsV5y5x04QHokKDKEB7txenLCpV9367T0nSBBJdJ5w1x1Et5tMJKl8IwpTZBTKaDM6q2PPR1600FB210TQrKLVTfQTsgdHYI83fHtxXdxhffsdkXjkLR1PzAwCv7yyUBHszRun0dCxPAGKzcaIpgh-7eLssZN4nZI8x_kKE3HDP64RKoFvbV2Ozef0yXZKU2IgBpz4gfcV3EIzvi3ZyBAXpU3nxhySpkTvTyaiFXOxqEShTTmiBt48IixkhmQedg9F22n3wkHgbakwLJmTyAWGpWYnNRTHFFAnvcSg_ICfoTig5SI5M3Bc1zjG9Vc6mOfPnjTqCvxWYeUCkzh4_ML-fxwKCm_4RmlyMUSnUrCkqZUJSmSXi52U6FcEgvfa8EvJgAQevqK2fuelbF6g5TUu6AC4McvqecbCKl28P3c-yCs_mpJ9A%25253D%25253D%2526gha_pull_request%3DTrue%2526rtp%3DSdTUqdR7wIew8aRS9esAtw%25253D%25253D%2526risk_lk_1%3Dtrue%2526alwd_rand%3Dfalse%2526gt%3D1784242094%2526sg%3DAgR06%2526sid%3DGHA_MD6%2526cmab_id%3D31%2526ib%3Dfalse%2526s2b%3Dm3%2526all_inclusive%3Dfalse%26utm_source%3Dgha%26utm_content%3Dlocaluniversal%26currency%3DUSD%26user_country%3DUS%26verification%3Dfalse%26rate_rule_ids%3D%26date_type%3Dselected%26rate_rule_id%3Dsignedout_desktop%26display_currency%3DUSD%26display_all_inclusive_price%3D251.72%26checkin_at%3D2026-11-15%26checkout_at%3D2026-11-16%26provider_hotel_id%3D10005277404%26provider%3Dean%26num_adults%3D2%26children%3D%5B%5D%26hotel_campaign%3D%26utm_campaign%3D%26user_locale%3Den-US%26user_list_id%3D%26utm_medium%3Dorganic%26utm_id%3Dgha_organic&s=AD1XQnlau3XB0DxPf88kd4reRBq0&ap=1",
         "official": false
       },
       {
         "source": "Orbitz.com",
-        "bookingLink": "https://www.google.com/travel/clk?pc=AA80OsyJ0-LDT8g4p4fZnWP-xu-vXZ6veRehOL3hhi1PM-yFjm5YMEITH7h7FQjbVWBrX-ee8Io3xKCk650aNj1v3eElCjk8o5Ujdhua0BkvSD0PIOwx8IPE3IMklUsWX-7hQRM6J4zFeplaS6aZWze6uSGWFJHVCTjhPiL_44oW60wOmmP1Sn7eU44q68bb4-U&pcurl=https://www.orbitz.com/Hotel-Search?selected%3D7451233%26startDate%3D2026-11-15%26endDate%3D2026-11-16%26adults%3D2%26children%3D%26MDPCID%3DORBITZ-US.META.HPA.ORGANIC-desktop.HOTEL%26MDPDTL%3Dhtl.7451233.20261115.20261116.DDF.121.CID..AUDID..localuniversal%26mpg%3DUSD%26mpf%3D290.66%26mpj%3D43.46%26mpr%3D0.00%26mctc%3D10%26rateplanid%3D389535161%26mpm%3D24%26mpn%3D316463562%26mpo%3DEC%26mpp%3D1&s=AD1XQnnV5mNSkuC9KVln3gwyT32s&ap=1",
+        "bookingLink": "https://www.google.com/travel/clk?pc=AA80OszsgXjUpYX_dbJiMI7NJtRzaXWPijL2hyQok0qNGxA9sDIQoMgKNcVLk__I9DHGmFAulrMH21iGNCq-p0_dZwLGo_KvsMrqKGIM7MCjB6da2xIVhVGyMGuwsuN3M8s7QY1BVx3HCmrm3TzJilfUVV_FZemqFaXlw241md431Ju3amDQ1mMLx6U_GFHgLEk&pcurl=https://www.orbitz.com/Hotel-Search?selected%3D7451233%26startDate%3D2026-11-15%26endDate%3D2026-11-16%26adults%3D2%26children%3D%26MDPCID%3DORBITZ-US.META.HPA.ORGANIC-desktop.HOTEL%26MDPDTL%3Dhtl.7451233.20261115.20261116.DDF.121.CID..AUDID..localuniversal%26mpg%3DUSD%26mpf%3D290.66%26mpj%3D43.46%26mpr%3D0.00%26mctc%3D10%26rateplanid%3D389535161%26mpm%3D24%26mpn%3D316463562%26mpo%3DEC%26mpp%3D1&s=AD1XQnnV5mNSkuC9KVln3gwyT32s&ap=1",
+        "official": false
+      },
+      {
+        "source": "Travelocity.com",
+        "bookingLink": "https://www.google.com/travel/clk?pc=AA80OswFTsT-qMKEzclnbjgX_PEsFbChZaoWr_Flr7mkpMaETAJKBobtKRkGc4nkBWrq134zimYvuh6TMBToJtRsfWKpIbqm_cMqf5V26rzeDGnYsg0_Rsoz_7WyGdPkQ0pq_EMdKRoFjjjeG3rDR3s5_wc5ysFTIxJGdOTJ8BQv9c_kYxGnw5qiFxjEB8-_QFVz&pcurl=https://www.travelocity.com/Hotel-Search?selected%3D7451233%26startDate%3D2026-11-15%26endDate%3D2026-11-16%26adults%3D2%26children%3D%26MDPCID%3Dtravelocity-US.META.HPA.ORGANIC.HOTEL%26MDPDTL%3DHTL.7451233.20261115.20261116.DDF.121.CID..AUDID..localuniversal%26mpg%3DUSD%26mpf%3D290.66%26mpj%3D43.46%26mpr%3D0.00%26mctc%3D10%26rateplanid%3D389535161%26mpm%3D24%26mpn%3D316463562%26mpo%3DEC%26mpp%3D1&s=AD1XQnkceEpE0Q04GQkEazqHpqVa&ap=1",
+        "official": false
+      },
+      {
+        "source": "CheapTickets.com",
+        "bookingLink": "https://www.google.com/travel/clk?pc=AA80OszvwwlLdza4pqY3gvlVBstFAIyKSEquoS0VWUvGCEjwdTfI_i7OFtU40487y1sJIZgDC82pbN0M_fBha73DJOuAQurBPBaNz5R0lDdBX_s5bVC2fuevw4yMKkK39JgbYHdLVkKgVtHFj6PLilXg-dJugyun1jK32fKDioDYNeXG7pmDNRw0ZooOGLcGGv3a9y42h04&pcurl=https://www.cheaptickets.com/Hotel-Search?selected%3D7451233%26startDate%3D2026-11-15%26endDate%3D2026-11-16%26MDPCID%3DCHEAPTICKETS-US.META.HPA.ORGANIC-desktop.HOTEL%26langid%3D1033%26adults%3D2%26children%3D%26MDPDTL%3Dhtl.7451233.20261115.20261116.DDF.121.CID..AUDID..localuniversal%26mpg%3DUSD%26mpf%3D290.66%26mpj%3D43.46%26mpr%3D0.00%26mctc%3D10%26rateplanid%3D389535161%26rateplanid%3D389535161%26mpm%3D24%26mpn%3D316463562%26mpo%3DEC%26mpp%3D1&s=AD1XQnke0wz_rSjt-_9AwRqIynyd&ap=1",
         "official": false
       }
     ],
     "reviewsExtracted": 0,
-    "markdownContent": "# The Marmara Park Avenue (Google Hotels)\n\n**Class:** 5.0-star\n**Guest rating:** 4.2/5 (1070 reviews)\n**From:** USD 252.0 / night\n\n## Prices by source\n- Super.com: USD 252.0/night\n- Booking.com: USD 287.0/night\n- Priceline: USD 287.0/night\n- Bluepillow.com: USD 287.0/night\n- Reserving: USD 287.0/night\n- Hotels.com: USD 291.0/night\n- Expedia.com: USD 291.0/night\n- Travelocity.com: USD 291.0/night\n- eDreams: USD 291.0/night\n- Orbitz.com: USD 291.0/night\n- CheapTickets.com: USD 291.0/night\n- Brek: USD 291.0/night\n- Luxury Escapes: USD 334.0/night",
-    "scrapedAt": "2026-07-17T07:08:03.743390+00:00"
+    "markdownContent": "# The Marmara Park Avenue (Google Hotels)\n\n**Class:** 5.0-star\n**Guest rating:** 4.2/5 (1070 reviews)\n**From:** USD 252.0 / night\n\n## Prices by source\n- Super.com: USD 252.0/night\n- Booking.com: USD 287.0/night\n- Priceline: USD 287.0/night\n- Bluepillow.com: USD 287.0/night\n- Reserving: USD 287.0/night\n- Hotels.com: USD 291.0/night\n- Expedia.com: USD 291.0/night\n- Orbitz.com: USD 291.0/night\n- Travelocity.com: USD 291.0/night\n- CheapTickets.com: USD 291.0/night\n- Brek: USD 291.0/night\n- eDreams: USD 291.0/night\n- Luxury Escapes: USD 334.0/night",
+    "scrapedAt": "2026-07-17T07:28:32.457248+00:00"
   },
   {
     "searchQuery": "hotels in New York City",
-    "name": "Hyatt Grand Central New York",
-    "entityToken": "ChYImeqn5sP5xYFQGgovbS8wOXJ0bXZ2EAE",
-    "cid": "0x89c259022d712db1:0x500317cc3cc9f519",
-    "cidDecimal": "5765478113925002521",
-    "hotelUrl": "https://www.google.com/travel/hotels/entity/ChYImeqn5sP5xYFQGgovbS8wOXJ0bXZ2EAE",
-    "propertyType": "hotel",
-    "starClass": 4,
-    "rating": 4,
-    "reviewCount": 8613,
-    "latitude": 40.7520617,
-    "longitude": -73.9762995,
+    "name": "Hotel Henri NY",
+    "entityToken": "ChkI3fjphL7vpIVDGg0vZy8xMXN4NTE1emYzEAE",
+    "cid": "0x89c259a44ff71467:0x430a937be09a7c5d",
+    "cidDecimal": "4830835710566759517",
+    "hotelUrl": "https://www.google.com/travel/hotels/entity/ChkI3fjphL7vpIVDGg0vZy8xMXN4NTE1emYzEAE",
+    "propertyType": null,
+    "starClass": null,
+    "rating": 4.2,
+    "reviewCount": 624,
+    "latitude": 40.743281499999995,
+    "longitude": -73.99103099999999,
     "checkInDate": "2026-11-15",
     "checkOutDate": "2026-11-16",
     "nights": 1,
@@ -170,135 +186,151 @@
     "children": 0,
     "rooms": 1,
     "currency": "USD",
-    "leadPrice": 256,
-    "leadPriceTotal": 256,
-    "vendorCount": 26,
+    "leadPrice": 154,
+    "leadPriceTotal": 154,
+    "vendorCount": 12,
     "offers": [
       {
-        "source": "Hyatt Grand Central New York",
+        "source": "Hotels.com",
         "checkInDate": "2026-11-15",
         "checkOutDate": "2026-11-16",
-        "roomName": null,
-        "perNight": 313,
-        "total": 313,
-        "bookingLink": null,
-        "official": false
+        "roomName": "Standard Room, 1 King Bed",
+        "perNight": 161,
+        "total": 161,
+        "currency": "USD",
+        "official": false,
+        "hotelUrl": "https://www.google.com/travel/hotels/entity/ChkI3fjphL7vpIVDGg0vZy8xMXN4NTE1emYzEAE",
+        "bookingLink": "https://www.google.com/aclk?sa=l&ai=DChsSEwiXx5SImNmVAxW7LdQBHeJkBXoYACICCAEQGhoCb2E&co=1&ase=2&gclid=EAIaIQobChMIl8eUiJjZlQMVuy3UAR3iZAV6EAoYASABEgLAzvD_BwE&category=acrcp_v1_48&sig=AOD64_3EwJpnsBDHEf7vwp2btnQjABUCPA&adurl"
       },
       {
-        "source": "trivago DEALS",
+        "source": "Hotels.com",
         "checkInDate": "2026-11-15",
         "checkOutDate": "2026-11-16",
-        "roomName": null,
-        "perNight": 256,
-        "total": 256,
-        "bookingLink": null,
-        "official": false
+        "roomName": "Standard Room, 2 Double Beds",
+        "perNight": 191,
+        "total": 191,
+        "currency": "USD",
+        "official": false,
+        "hotelUrl": "https://www.google.com/travel/hotels/entity/ChkI3fjphL7vpIVDGg0vZy8xMXN4NTE1emYzEAE",
+        "bookingLink": "https://www.google.com/aclk?sa=l&ai=DChsSEwiXx5SImNmVAxW7LdQBHeJkBXoYACICCAEQGhoCb2E&co=1&ase=2&gclid=EAIaIQobChMIl8eUiJjZlQMVuy3UAR3iZAV6EAoYASABEgLAzvD_BwE&category=acrcp_v1_48&sig=AOD64_3EwJpnsBDHEf7vwp2btnQjABUCPA&adurl"
       },
       {
-        "source": "Traveluro",
+        "source": "Hotels.com",
         "checkInDate": "2026-11-15",
         "checkOutDate": "2026-11-16",
-        "roomName": null,
-        "perNight": 256,
-        "total": 256,
-        "bookingLink": null,
-        "official": false
+        "roomName": "Premium Room, 1 King Bed",
+        "perNight": 211,
+        "total": 211,
+        "currency": "USD",
+        "official": false,
+        "hotelUrl": "https://www.google.com/travel/hotels/entity/ChkI3fjphL7vpIVDGg0vZy8xMXN4NTE1emYzEAE",
+        "bookingLink": "https://www.google.com/aclk?sa=l&ai=DChsSEwiXx5SImNmVAxW7LdQBHeJkBXoYACICCAEQGhoCb2E&co=1&ase=2&gclid=EAIaIQobChMIl8eUiJjZlQMVuy3UAR3iZAV6EAoYASABEgLAzvD_BwE&category=acrcp_v1_48&sig=AOD64_3EwJpnsBDHEf7vwp2btnQjABUCPA&adurl"
       },
       {
-        "source": "Super.com",
+        "source": "Travelocity.com",
         "checkInDate": "2026-11-15",
         "checkOutDate": "2026-11-16",
-        "roomName": null,
-        "perNight": 263,
-        "total": 263,
-        "bookingLink": null,
-        "official": false
+        "roomName": "Standard Room, 1 King Bed",
+        "perNight": 165,
+        "total": 165,
+        "currency": "USD",
+        "official": false,
+        "hotelUrl": "https://www.google.com/travel/hotels/entity/ChkI3fjphL7vpIVDGg0vZy8xMXN4NTE1emYzEAE",
+        "bookingLink": "https://www.google.com/aclk?sa=l&ai=DChsSEwiXx5SImNmVAxW7LdQBHeJkBXoYACICCAEQFRoCb2E&co=1&ase=2&gclid=EAIaIQobChMIl8eUiJjZlQMVuy3UAR3iZAV6EAoYAiABEgK2K_D_BwE&category=acrcp_v1_48&sig=AOD64_27sC2Xa6EKGBuOWzlLtNtLDRyJjA&adurl"
+      },
+      {
+        "source": "Travelocity.com",
+        "checkInDate": "2026-11-15",
+        "checkOutDate": "2026-11-16",
+        "roomName": "Standard Room, 2 Double Beds",
+        "perNight": 196,
+        "total": 196,
+        "currency": "USD",
+        "official": false,
+        "hotelUrl": "https://www.google.com/travel/hotels/entity/ChkI3fjphL7vpIVDGg0vZy8xMXN4NTE1emYzEAE",
+        "bookingLink": "https://www.google.com/aclk?sa=l&ai=DChsSEwiXx5SImNmVAxW7LdQBHeJkBXoYACICCAEQFRoCb2E&co=1&ase=2&gclid=EAIaIQobChMIl8eUiJjZlQMVuy3UAR3iZAV6EAoYAiABEgK2K_D_BwE&category=acrcp_v1_48&sig=AOD64_27sC2Xa6EKGBuOWzlLtNtLDRyJjA&adurl"
+      },
+      {
+        "source": "Travelocity.com",
+        "checkInDate": "2026-11-15",
+        "checkOutDate": "2026-11-16",
+        "roomName": "Premium Room, 1 King Bed",
+        "perNight": 216,
+        "total": 216,
+        "currency": "USD",
+        "official": false,
+        "hotelUrl": "https://www.google.com/travel/hotels/entity/ChkI3fjphL7vpIVDGg0vZy8xMXN4NTE1emYzEAE",
+        "bookingLink": "https://www.google.com/aclk?sa=l&ai=DChsSEwiXx5SImNmVAxW7LdQBHeJkBXoYACICCAEQFRoCb2E&co=1&ase=2&gclid=EAIaIQobChMIl8eUiJjZlQMVuy3UAR3iZAV6EAoYAiABEgK2K_D_BwE&category=acrcp_v1_48&sig=AOD64_27sC2Xa6EKGBuOWzlLtNtLDRyJjA&adurl"
       },
       {
         "source": "Booking.com",
         "checkInDate": "2026-11-15",
         "checkOutDate": "2026-11-16",
-        "roomName": null,
-        "perNight": 313,
-        "total": 313,
-        "bookingLink": null,
-        "official": false
+        "roomName": "Deluxe King Room",
+        "perNight": 164,
+        "total": 164,
+        "currency": "USD",
+        "official": false,
+        "hotelUrl": "https://www.google.com/travel/hotels/entity/ChkI3fjphL7vpIVDGg0vZy8xMXN4NTE1emYzEAE",
+        "bookingLink": "https://www.google.com/aclk?sa=l&ai=DChsSEwiXx5SImNmVAxW7LdQBHeJkBXoYACICCAEQARoCb2E&co=1&ase=2&gclid=EAIaIQobChMIl8eUiJjZlQMVuy3UAR3iZAV6EAoYAyABEgK0H_D_BwE&category=acrcp_v1_48&sig=AOD64_3eRgYEiQXVolonsRCYMjHcHINgnA&adurl"
       },
       {
-        "source": "Expedia.com",
+        "source": "Booking.com",
         "checkInDate": "2026-11-15",
         "checkOutDate": "2026-11-16",
-        "roomName": null,
-        "perNight": 317,
-        "total": 317,
-        "bookingLink": null,
-        "official": false
-      },
-      {
-        "source": "Priceline",
-        "checkInDate": "2026-11-15",
-        "checkOutDate": "2026-11-16",
-        "roomName": null,
-        "perNight": 313,
-        "total": 313,
-        "bookingLink": null,
-        "official": false
-      },
-      {
-        "source": "Agoda",
-        "checkInDate": "2026-11-15",
-        "checkOutDate": "2026-11-16",
-        "roomName": null,
-        "perNight": 313,
-        "total": 313,
-        "bookingLink": null,
-        "official": false
+        "roomName": "Double Room",
+        "perNight": 215,
+        "total": 215,
+        "currency": "USD",
+        "official": false,
+        "hotelUrl": "https://www.google.com/travel/hotels/entity/ChkI3fjphL7vpIVDGg0vZy8xMXN4NTE1emYzEAE",
+        "bookingLink": "https://www.google.com/aclk?sa=l&ai=DChsSEwiXx5SImNmVAxW7LdQBHeJkBXoYACICCAEQARoCb2E&co=1&ase=2&gclid=EAIaIQobChMIl8eUiJjZlQMVuy3UAR3iZAV6EAoYAyABEgK0H_D_BwE&category=acrcp_v1_48&sig=AOD64_3eRgYEiQXVolonsRCYMjHcHINgnA&adurl"
       }
     ],
     "vendors": [
       {
-        "source": "Hyatt Grand Central New York",
-        "bookingLink": null,
+        "source": "Hotels.com",
+        "bookingLink": "https://www.google.com/aclk?sa=l&ai=DChsSEwiXx5SImNmVAxW7LdQBHeJkBXoYACICCAEQGhoCb2E&co=1&ase=2&gclid=EAIaIQobChMIl8eUiJjZlQMVuy3UAR3iZAV6EAoYASABEgLAzvD_BwE&category=acrcp_v1_48&sig=AOD64_3EwJpnsBDHEf7vwp2btnQjABUCPA&adurl",
         "official": false
       },
       {
-        "source": "trivago DEALS",
-        "bookingLink": null,
-        "official": false
-      },
-      {
-        "source": "Traveluro",
-        "bookingLink": null,
-        "official": false
-      },
-      {
-        "source": "Super.com",
-        "bookingLink": null,
+        "source": "Travelocity.com",
+        "bookingLink": "https://www.google.com/aclk?sa=l&ai=DChsSEwiXx5SImNmVAxW7LdQBHeJkBXoYACICCAEQFRoCb2E&co=1&ase=2&gclid=EAIaIQobChMIl8eUiJjZlQMVuy3UAR3iZAV6EAoYAiABEgK2K_D_BwE&category=acrcp_v1_48&sig=AOD64_27sC2Xa6EKGBuOWzlLtNtLDRyJjA&adurl",
         "official": false
       },
       {
         "source": "Booking.com",
-        "bookingLink": null,
+        "bookingLink": "https://www.google.com/aclk?sa=l&ai=DChsSEwiXx5SImNmVAxW7LdQBHeJkBXoYACICCAEQARoCb2E&co=1&ase=2&gclid=EAIaIQobChMIl8eUiJjZlQMVuy3UAR3iZAV6EAoYAyABEgK0H_D_BwE&category=acrcp_v1_48&sig=AOD64_3eRgYEiQXVolonsRCYMjHcHINgnA&adurl",
         "official": false
       },
       {
         "source": "Expedia.com",
-        "bookingLink": null,
+        "bookingLink": "https://www.google.com/aclk?sa=l&ai=DChsSEwiXx5SImNmVAxW7LdQBHeJkBXoYACICCAEQEBoCb2E&co=1&ase=2&gclid=EAIaIQobChMIl8eUiJjZlQMVuy3UAR3iZAV6EAoYBCABEgIA7PD_BwE&category=acrcp_v1_48&sig=AOD64_3M_glMwsC-VAWmElvlVu5BCHxa-w&adurl",
         "official": false
+      },
+      {
+        "source": "Trip.com",
+        "bookingLink": "https://www.google.com/aclk?sa=l&ai=DChsSEwiXx5SImNmVAxW7LdQBHeJkBXoYACICCAEQCxoCb2E&co=1&ase=2&gclid=EAIaIQobChMIl8eUiJjZlQMVuy3UAR3iZAV6EAoYBSABEgI1l_D_BwE&category=acrcp_v1_48&sig=AOD64_0dMSPvmH82Yx3OuvwUllKBk4LqBQ&adurl",
+        "official": false
+      },
+      {
+        "source": "eDreams",
+        "bookingLink": "https://www.google.com/aclk?sa=l&ai=DChsSEwiXx5SImNmVAxW7LdQBHeJkBXoYACICCAEQBhoCb2E&co=1&ase=2&gclid=EAIaIQobChMIl8eUiJjZlQMVuy3UAR3iZAV6EAoYBiABEgKsvvD_BwE&category=acrcp_v1_48&sig=AOD64_34PcKD4fnoK51nTs4LOqCOrkaE8g&adurl",
+        "official": false
+      },
+      {
+        "source": "Official site",
+        "bookingLink": null,
+        "official": true
       },
       {
         "source": "Priceline",
-        "bookingLink": null,
-        "official": false
-      },
-      {
-        "source": "Agoda",
         "bookingLink": null,
         "official": false
       }
     ],
     "reviewsExtracted": 0,
-    "markdownContent": "# Hyatt Grand Central New York (Google Hotels)\n\n**Class:** 4.0-star\n**Guest rating:** 4.0/5 (8613 reviews)\n**From:** USD 256.0 / night\n\n## Prices by source\n- trivago DEALS: USD 256.0/night\n- Traveluro: USD 256.0/night\n- Super.com: USD 263.0/night\n- Airport Hotels Worldwide: USD 286.0/night\n- pricetravel.com: USD 309.0/night\n- Vio.com: USD 312.0/night\n- goseek.com: USD 312.0/night\n- Etrip.net: USD 312.0/night\n- Hyatt Grand Central New York: USD 313.0/night\n- Booking.com: USD 313.0/night\n- Priceline: USD 313.0/night\n- Agoda: USD 313.0/night\n- Reserving: USD 313.0/night\n- Bluepillow.com: USD 313.0/night\n- Luxury Escapes: USD 314.0/night\n- Expedia.com: USD 317.0/night\n- Hotels.com: USD 317.0/night\n- Orbitz.com: USD 317.0/night\n- Travelocity.com: USD 317.0/night\n- Evendo: USD 317.0/night",
-    "scrapedAt": "2026-07-17T07:08:05.263869+00:00"
+    "markdownContent": "# Hotel Henri NY (Google Hotels)\n\n**Guest rating:** 4.2/5 (624 reviews)\n**From:** USD 154.0 / night\n\n## Prices by source\n- Official site: USD 154.0/night\n- Hotels.com: USD 161.0/night\n- Booking.com: USD 164.0/night\n- Priceline: USD 164.0/night\n- Reserving: USD 164.0/night\n- Bluepillow.com: USD 164.0/night\n- Travelocity.com: USD 165.0/night\n- Expedia.com: USD 165.0/night\n- eDreams: USD 165.0/night\n- Orbitz.com: USD 165.0/night\n- CheapTickets.com: USD 165.0/night\n- Trip.com: USD 178.0/night",
+    "scrapedAt": "2026-07-17T07:28:33.683167+00:00"
   }
 ]
