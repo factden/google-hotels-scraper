@@ -35,15 +35,20 @@ empty array).
 
 ### `offers[]` object
 
+The complete priced table (powers the **Prices** view) — one self-contained row per booking source × stay-date ×
+room-if-available, in this column order:
+
 | Field | Type | Description |
 |---|---|---|
-| `source` | string | Booking source name (e.g. `Booking.com`, `Agoda`, `Expedia.com`, or the hotel's official site). |
+| `source` | string | Booking source name (e.g. `Booking.com`, `Agoda`, `Expedia.com`). The hotel's own direct-booking row is labelled **`Official site`** (Google returns it under the hotel name; we normalise it so `source` is never the hotel name). |
 | `checkInDate` / `checkOutDate` | string \| null | The stay dates this priced row is for (base stay or a price-window date). |
 | `roomName` | string \| null | Room type, when the source exposes per-room rates; `null` for a source-level row. |
 | `perNight` | number \| null | Per-night price. |
 | `total` | number \| null | Whole-stay total (= perNight × nights for the row's dates). |
+| `currency` | string \| null | Currency of this row's prices. |
+| `official` | boolean | `true` only for the hotel's own direct-booking (`Official site`) row. |
+| `hotelUrl` | string \| null | Google Hotels deep link for the hotel (repeated per row so each row stands alone). |
 | `bookingLink` | string \| null | Deep link to book on this source. |
-| `official` | boolean | Whether this is the hotel's official/direct site. |
 
 ### `vendors[]` object
 
