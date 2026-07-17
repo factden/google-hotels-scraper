@@ -24,25 +24,32 @@ empty array).
 | `nights` | integer \| null | Nights in the stay. |
 | `adults` / `children` / `rooms` | integer \| null | Occupancy used for pricing. |
 | `currency` | string \| null | Currency of all prices in the row. |
-| `leadPrice` | number \| null | Cheapest per-night price across all sources. |
-| `leadPriceTotal` | number \| null | Cheapest total price for the whole stay. |
-| `vendorCount` | integer | How many booking sources (OTAs) returned a price. |
-| `roomOfferCount` | integer | How many room × source offers were found (for the sources that expose them). |
-| `offers` | array | **The Prices view** — one row per bookable option: each source (roomName null), expanded to per-room rows where the source provides them. `{source, roomName, perNight, total, bookingLink, official}`. |
-| `vendors` | array | **The OTA ladder** — one object per source: `{source, pricePerNight, priceTotal, bookingLink, official}`. |
-| `roomOffers` | array | Per-room × source rates (for the sources that expose them): `{source, roomName, perNight, total, currency}`. |
-| `ratesByDate` | array | Multi-date price window (from the "track prices until" date): `{checkInDate, checkOutDate, nights, leadPrice, currency, vendors[]}`. |
+| `leadPrice` | number \| null | Cheapest per-night price across all sources for the base stay. |
+| `leadPriceTotal` | number \| null | Cheapest total price for the base stay. |
+| `vendorCount` | integer | How many distinct booking sources sell this hotel. |
+| `offers` | array | **The prices table** (powers the Prices view) — one row per booking source × stay-date × room-if-available. Includes the base stay **and every price-window date**. See the `offers[]` object below. |
+| `vendors` | array | **Booking directory** — one object per source: `{source, bookingLink, official}` (no prices; prices are in `offers`). |
 | `reviewsExtracted` | integer | Reviews this run pushed to the Reviews dataset for this hotel. |
-| `markdownContent` | string | Self-contained hotel + price-ladder summary block, ready for LLM / RAG ingestion. |
+| `markdownContent` | string | Self-contained hotel + price summary block, ready for LLM / RAG ingestion. |
 | `scrapedAt` | string | ISO-8601 UTC timestamp of extraction. |
+
+### `offers[]` object
+
+| Field | Type | Description |
+|---|---|---|
+| `source` | string | Booking source name (e.g. `Booking.com`, `Agoda`, `Expedia.com`, or the hotel's official site). |
+| `checkInDate` / `checkOutDate` | string \| null | The stay dates this priced row is for (base stay or a price-window date). |
+| `roomName` | string \| null | Room type, when the source exposes per-room rates; `null` for a source-level row. |
+| `perNight` | number \| null | Per-night price. |
+| `total` | number \| null | Whole-stay total (= perNight × nights for the row's dates). |
+| `bookingLink` | string \| null | Deep link to book on this source. |
+| `official` | boolean | Whether this is the hotel's official/direct site. |
 
 ### `vendors[]` object
 
 | Field | Type | Description |
 |---|---|---|
-| `source` | string | Booking source name (e.g. `Booking.com`, `Agoda`, `Expedia.com`, or the hotel's official site). |
-| `pricePerNight` | number \| null | Per-night price from this source. |
-| `priceTotal` | number \| null | Whole-stay total from this source. |
+| `source` | string | Booking source name. |
 | `bookingLink` | string \| null | Deep link to book on this source. |
 | `official` | boolean | Whether this is the hotel's official/direct site. |
 

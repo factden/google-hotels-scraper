@@ -15,7 +15,7 @@ This repo is the **developer entry point** for the Google Hotels Scraper actor: 
 
 Give it a **destination search** (e.g. `hotels in New York City`) and/or **exact hotels** (by name, Google Maps/Hotels link, or ID), pick your **dates and occupancy**, and get two structured datasets:
 
-- **Hotels** — one row per hotel: name, star class, guest rating, review count, property type, coordinates, the **lead per-night price** and the **full per-source OTA ladder** (`vendors[]` — each source with its per-night/total price and a **booking link**), optional **per-room rates** (`roomOffers[]`), an optional multi-date **price window** (`ratesByDate[]`), Google entity token / CID, and an LLM-ready `markdownContent` block.
+- **Hotels** — one row per hotel: name, star class, guest rating, review count, property type, coordinates, the **lead per-night price**, a complete **`offers[]` prices table** (one row per booking source × stay-date × room-if-available — with booking links, and every price-window date folded in), a price-free **`vendors[]` booking directory**, Google entity token / CID, and an LLM-ready `markdownContent` block.
 - **Reviews** *(optional)* — one row per guest review: reviewer, rating, **review text**, **exact publish date**, the hotel's **owner response**, and an LLM-ready `markdownContent` block.
 
 ### Two things you won't find in most Google Hotels scrapers
@@ -53,7 +53,7 @@ More: **[Python](./snippets/run_actor.py)** · **[Node](./snippets/run_actor.js)
 Real sample output lives in **[`examples/`](./examples)**:
 
 - [`examples/hotels-sample.csv`](./examples/hotels-sample.csv) — hotel rows with the lead price + source counts — browse it right in GitHub's table view
-- [`examples/hotels-output.sample.json`](./examples/hotels-output.sample.json) — full hotel rows incl. the `vendors[]` ladder, `roomOffers[]`, and `markdownContent`
+- [`examples/hotels-output.sample.json`](./examples/hotels-output.sample.json) — full hotel rows incl. the `offers[]` prices table, `vendors[]` directory, and `markdownContent`
 - [`examples/reviews-output.sample.json`](./examples/reviews-output.sample.json) — review rows with exact `publishedAt` + owner responses
 - [`examples/input.json`](./examples/input.json) — a ready-to-run input
 
@@ -63,7 +63,7 @@ Every field is documented in **[`FIELDS.md`](./FIELDS.md)**. From Apify you can 
 
 ## Use cases
 
-- **Rate shopping & price comparison** — the full OTA ladder per hotel, across dates (`ratesByDate`), for your competitive set.
+- **Rate shopping & price comparison** — the full price ladder per hotel, across dates (all in `offers`), for your competitive set.
 - **Revenue management** — monitor your own and competitors' rates and parity across booking sources.
 - **Market & travel research** — discover every hotel in a destination with star class, ratings and price bands.
 - **AI / RAG pipelines** — drop each hotel's or review's `markdownContent` straight into a vector DB.

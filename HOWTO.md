@@ -27,12 +27,12 @@ broad one-word term can pull in similarly-named places elsewhere.
 hotels (one row each): a **hotel name** (e.g. `The Manhattan at Times Square` — resolved to the closest match, so
 use the full name + city), a Google Hotels/Travel URL, a Google Maps place URL, a `maps.app.goo.gl` short link, a
 `ChkI…` entity token, or a `ChIJ…` Maps place-id. (A Google Maps link is CID-matched to the exact property.) Set a
-**Track prices until** date to reprice the same hotels across a range (`ratesByDate`).
+**Track prices until** date to add priced rows for each date to `offers`.
 
 ## 4. Pick what to pull
 
 - **Include prices** (default on) — the lead price + the full OTA ladder with booking links, **plus the per-room
-  rate matrix** (rooms come free in the same request). Needs check-in/out dates.
+  rate matrix** (rooms come free in the same request). Dates optional — empty dates price tomorrow's 1-night stay.
 - **Include reviews** — guest reviews (exact dates + owner responses) into the separate `reviews` dataset.
 
 Filters (`minPrice`/`maxPrice`/`minGuestRating`) are applied on the accurate price; star class and property type
