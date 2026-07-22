@@ -5,9 +5,10 @@ Real public Google Hotels data collected with the actor (a New York City search,
 - **`input.json`** — a ready-to-run actor input (destination search + dates, with prices — which include the
   per-room rate matrix — and reviews enabled).
 - **`hotels-output.sample.json`** — full hotel rows showing the complete field shape: the unified `offers[]`
-  (Prices view), the `vendors[]` OTA ladder (each source + price + booking link), a sample of `roomOffers[]`,
-  and the LLM-ready `markdownContent` block. (`offers`/`vendors`/`roomOffers` are trimmed here for readability —
-  a real run returns the full set, typically 15–20 sources and dozens of room offers per hotel.)
+  (Prices view — each row is a source × date × room-if-available, with rate + booking link), the price-free
+  `vendors[]` booking directory (each source + booking link + official flag), and the LLM-ready
+  `markdownContent` block. (`offers`/`vendors` are trimmed here for readability — a real run returns the full
+  set, typically 15–20 sources and dozens of priced room rows per hotel.)
 - **`hotels-sample.csv`** — hotel rows flattened to key columns (name, star class, rating, lead price, source/room
   counts, cheapest source), browsable right in GitHub's table view.
 - **`reviews-output.sample.json`** — guest review rows with **exact `publishedAt`** dates and hotel **owner
