@@ -104,6 +104,7 @@ Every field is documented in **[`FIELDS.md`](./FIELDS.md)**. From Apify you can 
   ([docs](https://github.com/factden/indeed-jobs-scraper))
 - [TripAdvisor Hotel Reviews API](https://apify.com/factden/tripadvisor-hotel-reviews-api?fpr=factden)
   ([docs](https://github.com/factden/tripadvisor-hotel-reviews-api))
+- [Airbnb Data Scraper](https://apify.com/factden/airbnb-data-scraper?fpr=factden) ([docs](https://github.com/factden/airbnb-data-scraper)) - Airbnb listings, prices, availability, occupancy, ADR/RevPAR & reviews; a pay-per-use AirDNA alternative.
 - [All FactDen actors →](https://apify.com/factden?fpr=factden)
 
 ---
