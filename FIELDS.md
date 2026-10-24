@@ -42,6 +42,7 @@ room-if-available, in this column order:
 |---|---|---|
 | `source` | string | Booking source name (e.g. `Booking.com`, `Agoda`, `Expedia.com`). The hotel's own direct-booking row is labelled **`Official site`** (Google returns it under the hotel name; we normalise it so `source` is never the hotel name). |
 | `checkInDate` / `checkOutDate` | string \| null | The stay dates this priced row is for (base stay or a price-window date). |
+| `available` | boolean | `true` for a priced row; `false` on a row for a date with no offers (null price, no source). |
 | `roomName` | string \| null | Room type, when the source exposes per-room rates; `null` for a source-level row. |
 | `perNight` | number \| null | Per-night price. |
 | `total` | number \| null | Whole-stay total (= perNight × nights for the row's dates). |
