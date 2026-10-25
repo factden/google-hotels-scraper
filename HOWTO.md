@@ -32,7 +32,7 @@ use the full name + city), a Google Hotels/Travel URL, a Google Maps place URL, 
 ## 4. Pick what to pull
 
 - **Include prices** (default on) — the lead price + the full OTA ladder with booking links, **plus the per-room
-  rate matrix** (rooms come free in the same request). Dates optional — empty dates price tomorrow's 1-night stay.
+  rate matrix**. Dates optional — empty dates price tomorrow's 1-night stay.
 - **Include reviews** — guest reviews (exact dates + owner responses) into the separate `reviews` dataset.
 
 Filters (`minPrice`/`maxPrice`/`minGuestRating`) are applied on the accurate price; star class and property type
