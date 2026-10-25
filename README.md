@@ -84,6 +84,8 @@ Every field is documented in **[`FIELDS.md`](./FIELDS.md)**. From Apify you can 
 
 **Can I price specific hotels instead of a whole city?** Yes — add exact hotels by **name**, Google Hotels/Maps URL, `maps.app.goo.gl` short link, `ChIJ…` place-id, or `ChkI…` entity token (a Maps link is CID-matched to the exact property), and set a "track prices until" date for a multi-date price window.
 
+**How do I find a hotel's Google ID?** If a hotel won't match by name, paste its Google Maps link into the free [Google ID finder](https://factden.com/google-id-finder) to get the ID, then drop it in. You can also paste the full Maps link straight into the actor and skip the ID entirely.
+
 **Why do a few hotels have no price ladder?** Almost all do. A property with no bookable offers on your dates still returns its name, rating, star class and reviews — just an empty ladder.
 
 **Found a bug or want a field added?** Open an issue here, or use the **Issues** tab on the [Apify actor page](https://apify.com/factden/google-hotels-scraper?fpr=factden).
